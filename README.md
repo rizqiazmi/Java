@@ -9,4 +9,5 @@ Some of the key features of Java include:
 * Platform independence: Java programs are compiled into a form called "bytecode," which can be run on any device that has a Java Virtual Machine (JVM) installed, regardless of the underlying hardware and operating system.
 * Strong support for networking: Java includes a built-in library of classes for developing networked applications.
 * Extensive libraries: Java has a large and comprehensive standard library that includes classes for tasks such as data structures, algorithms, and input/output.
+
 Java is a popular choice for developers due to its simplicity, power, and cross-platform capabilities, and it is used by companies such as Google, Amazon, and eBay.
